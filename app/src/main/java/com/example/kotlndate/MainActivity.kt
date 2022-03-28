@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
 
         val today = "12-121-2"// test value
 
+        /*
         val one = First.toString().toInt()
         val two = Second.toString().toInt()
         var Dif: Int = 0
@@ -45,6 +46,8 @@ class MainActivity : AppCompatActivity() {
         }else {
             Toast.makeText(this, "To te same daty", Toast.LENGTH_SHORT).show()
         }
+
+         */
 
 
 
